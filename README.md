@@ -1,82 +1,112 @@
-# Hi 👋, I'm Ahsan  
-💻 .NET Core Developer | ERP Builder | Problem Solver  
+# 🚀 Ahsan | .NET Core Developer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Ahsan%20Portfolio&fontSize=40&fontColor=ffffff" />
+</p>
 
 ---
 
-## 🔥 About Me
-- 🔭 Currently working on **ERP System (.NET Core + PostgreSQL)**
-- 🌱 Learning **Advanced Backend Architecture & System Design**
-- ⚡ Focused on building **real-world scalable applications**
-- 🎯 Goal: Become a **high-level software engineer & freelancer**
+## 👨‍💻 About Me
+
+* 🔭 Building **Enterprise ERP System (POS + Inventory + Reports)**
+* ⚡ Focused on **real-world scalable backend systems**
+* 🧠 Learning **System Design & Clean Architecture**
+* 🎯 Goal: Become **Top 1% Software Engineer**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 👨‍💻 Backend
-- .NET Core / ASP.NET MVC
-- C#
-- REST APIs
-
-### 🗄️ Database
-- PostgreSQL
-- SQL Server
-
-### 🎨 Frontend
-- HTML, CSS, JavaScript
-- Bootstrap
-
-### ⚙️ Tools & Others
-- Git & GitHub
-- Visual Studio
-- Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,js,html,css,bootstrap,git,github,visualstudio,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 📈 Top Languages
+## 🏆 GitHub Trophies
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&margin-w=10"/>
+</p>
 
 ---
 
-## 💼 Projects
+## 📌 Featured Projects
 
 ### 🧾 ERP System
-- Full business management system  
-- POS + Inventory + Sales + Reports  
-- Barcode Integration  
-- Offline Sync System  
+
+✔ POS + Inventory + Sales + Reports
+✔ Barcode Scanning Integration
+✔ Offline Sync Architecture
+✔ Role-Based Authentication
+
+---
 
 ### 📊 CSV Analytics Dashboard
-- Data visualization using Python  
-- Graphs and charts  
-- Desktop application  
+
+✔ Desktop Data Visualization Tool
+✔ Charts & Graphs (Matplotlib)
+✔ CSV Data Processing
+
+---
 
 ### ✅ Task Management System
-- CRUD operations  
-- MVC architecture  
-- Clean code practices  
+
+✔ Full CRUD Application
+✔ MVC Architecture
+✔ Clean Code + Service Layer
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-- 💼 LinkedIn: (add link)
-- 📧 Email: (add email)
-- 🌍 Portfolio: (add website if any)
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-> I don’t just write code, I build systems that solve real-world problems 🚀
+## 💡 Developer Mindset
+
+```diff
++ Build real-world systems
++ Focus on scalability
++ Write clean & maintainable code
++ Stay consistent (daily commits 🔥)
+```
+
+---
+
+## ⚡ Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson 🚀
