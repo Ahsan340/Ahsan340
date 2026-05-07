@@ -1,7 +1,7 @@
 # 🚀 Ahsan | .NET Core Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Muhammad Ahsan%&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Ahsan%&fontSize=40&fontColor=ffffff" />
 </p>
 
 ---
