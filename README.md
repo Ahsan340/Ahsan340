@@ -23,11 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsan340&show_icons=true&theme=radical)
-
----
 
 
 ## 🔥 Contribution Streak
