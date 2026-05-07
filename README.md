@@ -60,11 +60,6 @@
 
 ---
 
-### ✅ Task Management System
-
-✔ Full CRUD Application
-✔ MVC Architecture
-✔ Clean Code + Service Layer
 
 ---
 
