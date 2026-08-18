@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/followers/Ahsan340?label=Followers&style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/Ahsan340?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Ahsan340?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -50,12 +50,12 @@
 
 ---
 
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Ahsan340&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15"
+    src="https://github-profile-trophy.vercel.app/?username=Ahsan340&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6"
+    width="100%"
     alt="GitHub Trophies"
   />
 </p>
@@ -105,7 +105,7 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
   <img
@@ -121,13 +121,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ahsan340&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="./profile/stats.svg"
     height="180"
     alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan340&layout=compact&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     height="180"
     alt="Top Languages"
   />
