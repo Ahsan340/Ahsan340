@@ -97,4 +97,4 @@
 
 ## ⚡ Quote
 
-> "First, solve the problem. Then, write the code." – John Johnson 🚀
+>“Turning ideas into reliable, scalable software.” ⚙️🚀
